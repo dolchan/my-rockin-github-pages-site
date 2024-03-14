@@ -2,4 +2,4 @@
 layout: default
 ---
 
-Welcome to my rockin site!!
+Welcome to Seungchan Kim's rockin site!!
